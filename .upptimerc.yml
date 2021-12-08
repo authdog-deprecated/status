@@ -1,4 +1,4 @@
-owner: authdog-monitoring # Your GitHub organization or username, where this repository lives
+owner: dbrrt # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
