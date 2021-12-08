@@ -1,5 +1,5 @@
-owner: dbrrt # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: authdog-monitoring
+repo: status
 
 sites:
   - name: Authdog Website
@@ -9,12 +9,12 @@ sites:
     url: https://api.authdog.com/api/v1/health
 
 status-website:
-  baseUrl: /$REPO
+  baseUrl: /status
   logoUrl: https://res.cloudinary.com/authdog/image/upload/v1632157556/Web/images/corporate/Authdog_Full-Colour_lf2qex.svg
   name: Status App
   navbar:
     - title: Home
-      href: /$REPO
+      href: /status
     - title: Website
       href: https://www.authdog.com
 
