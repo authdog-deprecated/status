@@ -2,10 +2,10 @@ owner: authdog-monitoring
 repo: status
 
 sites:
-  - name: Authdog Website
+  - name: Website
     url: https://www.authdog.com
 
-  - name: Authdog Platform API
+  - name: Platform API (us-east-1)
     url: https://api.authdog.com/api/v1/health
 
 
