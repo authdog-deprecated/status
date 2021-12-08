@@ -15,7 +15,7 @@ status-website:
   name: Status App
   navbar:
     - title: Home
-      href: /status
+      href: /
     - title: Website
       href: https://www.authdog.com
 
