@@ -4,10 +4,8 @@ repo: status
 sites:
   - name: Website
     url: https://www.authdog.com
-
   - name: Platform API (us-east-1)
     url: https://api.authdog.com/api/v1/health
-
 
 status-website:
   logoUrl: https://res.cloudinary.com/authdog/image/upload/v1632157556/Web/images/corporate/Authdog_Full-Colour_lf2qex.svg
