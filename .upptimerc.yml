@@ -8,6 +8,8 @@ sites:
     url: https://api.authdog.com/api/v1/health
   - name: Cloudflare Worker Test
     url: https://my-ts-project.authdog.workers.dev
+  - name: Vercel Sandbox
+    url: https://api-rest-vercel-dbrrt.vercel.app
     
 status-website:
   logoUrl: https://res.cloudinary.com/authdog/image/upload/v1632157556/Web/images/corporate/Authdog_Full-Colour_lf2qex.svg
