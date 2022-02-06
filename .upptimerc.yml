@@ -12,6 +12,8 @@ sites:
     url: https://api-rest-vercel-dbrrt.vercel.app
   - name: Vercel SLS Wrapper
     url: https://atdg-test-deploy.vercel.app/api/v1/health
+  - name: Fastly JS Compute
+    url: https://quick-gloating-palpable.edgecompute.app/hello
     
 status-website:
   logoUrl: https://res.cloudinary.com/authdog/image/upload/v1632157556/Web/images/corporate/Authdog_Full-Colour_lf2qex.svg
