@@ -13,7 +13,7 @@ sites:
   - name: Fastly JS Compute
     url: https://quick-gloating-palpable.edgecompute.app/hello
   - name: Cloudflare Galactus Health
-    url: https://galactus.authdog.workers.dev
+    url: https://galactus.authdog.workers.dev/api/v1
     
 status-website:
   logoUrl: https://res.cloudinary.com/authdog/image/upload/v1632157556/Web/images/corporate/Authdog_Full-Colour_lf2qex.svg
