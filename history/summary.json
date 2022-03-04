@@ -4,7 +4,7 @@
     "url": "https://www.authdog.com",
     "icon": "https://favicons.githubusercontent.com/www.authdog.com",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 137,
     "timeDay": 89,
-    "timeWeek": 127,
-    "timeMonth": 106,
+    "timeWeek": 131,
+    "timeMonth": 105,
     "timeYear": 137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 0
+    }
   },
   {
     "name": "Platform API (us-east-1)",
@@ -23,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/api.authdog.com",
     "slug": "platform-api-us-east-1",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.87%",
-    "uptimeYear": "99.23%",
-    "time": 200,
-    "timeDay": 55,
-    "timeWeek": 142,
-    "timeMonth": 234,
-    "timeYear": 200,
+    "uptimeYear": "99.24%",
+    "time": 202,
+    "timeDay": 381,
+    "timeWeek": 182,
+    "timeMonth": 232,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2022-02-07": 934
     }
@@ -49,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 188,
-    "timeWeek": 134,
-    "timeMonth": 131,
+    "timeDay": 120,
+    "timeWeek": 138,
+    "timeMonth": 132,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -66,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 99,
+    "time": 189,
+    "timeDay": 116,
     "timeWeek": 230,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   },
   {
@@ -85,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 162,
-    "timeWeek": 108,
+    "timeDay": 152,
+    "timeWeek": 119,
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {}
@@ -102,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 88,
-    "timeWeek": 116,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "time": 120,
+    "timeDay": 84,
+    "timeWeek": 115,
+    "timeMonth": 120,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   }
 ]
