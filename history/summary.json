@@ -11,8 +11,8 @@
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.72%",
     "time": 147,
-    "timeDay": 264,
-    "timeWeek": 252,
+    "timeDay": 192,
+    "timeWeek": 237,
     "timeMonth": 144,
     "timeYear": 147,
     "dailyMinutesDown": {
@@ -30,33 +30,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
-    "time": 201,
-    "timeDay": 318,
-    "timeWeek": 182,
-    "timeMonth": 187,
-    "timeYear": 201,
+    "time": 200,
+    "timeDay": 216,
+    "timeWeek": 173,
+    "timeMonth": 184,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2022-02-07": 934
-    }
-  },
-  {
-    "name": "Cloudflare Worker Test",
-    "url": "https://my-ts-project.authdog.workers.dev",
-    "icon": "https://favicons.githubusercontent.com/my-ts-project.authdog.workers.dev",
-    "slug": "cloudflare-worker-test",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 72,
-    "timeWeek": 99,
-    "timeMonth": 123,
-    "timeYear": 118,
-    "dailyMinutesDown": {
-      "2022-03-08": 0
     }
   },
   {
@@ -70,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 113,
-    "timeWeek": 181,
+    "time": 175,
+    "timeDay": 121,
+    "timeWeek": 175,
     "timeMonth": 144,
-    "timeYear": 177,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 125,
-    "timeWeek": 139,
-    "timeMonth": 133,
-    "timeYear": 138,
+    "time": 139,
+    "timeDay": 145,
+    "timeWeek": 142,
+    "timeMonth": 134,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 88,
+    "time": 114,
+    "timeDay": 92,
     "timeWeek": 91,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   }
 ]
