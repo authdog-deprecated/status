@@ -6,8 +6,6 @@ sites:
     url: https://www.authdog.com
   - name: Platform API (us-east-1)
     url: https://api.authdog.com/api/v1/health
-  - name: Cloudflare Worker Test
-    url: https://my-ts-project.authdog.workers.dev
   - name: Vercel SLS Wrapper
     url: https://atdg-test-deploy.vercel.app/api/v1/health
   - name: Fastly JS Compute
